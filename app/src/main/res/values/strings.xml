@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo LocationDetection</string>
+    <string name="get_last_known_location_info">Get Last Known Location Info</string>
+</resources>
